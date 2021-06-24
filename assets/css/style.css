@@ -10,12 +10,7 @@ font-weight: 700;
     border-radius: 1rem;
    }
 
-   /*
-.contenedorgeneral{
-    background-image: url(../img/background1.jpg); 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size:cover; */
+
    
     .contenedorgeneral{
         background-color: rgb(2,0,36);
@@ -38,13 +33,10 @@ font-weight: 700;
     
 }
 
+.rrss ul li{
+   list-style: none;
+}
 
-/*
-.card-header{
-    height: 10px;
-    width:10px
-
-} */
 
 .icono{
     height: 50px;
@@ -54,4 +46,8 @@ font-weight: 700;
 .programas{
     width: 25rem;
 
+}
+
+.typeform-share{
+    position:fixed;
 }
