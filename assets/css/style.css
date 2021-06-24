@@ -51,3 +51,14 @@ font-weight: 700;
 .typeform-share{
     position:fixed;
 }
+
+.oscuro {
+    background: #000f08;
+    color: #ffffff;
+  }
+
+  .oscuro a{
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
