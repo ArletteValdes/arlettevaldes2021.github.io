@@ -19,9 +19,9 @@ font-weight: 700;
    
     .contenedorgeneral{
         background-color: rgb(2,0,36);
+        background-size: cover;
     }
    
-}
  
 .Nombre{
     font-weight: 700;
@@ -47,6 +47,6 @@ font-weight: 700;
 } */
 
 .icono{
-    height: 10px;
-    width: 10px;
+    height: 50px;
+    width: 50px;
 }
